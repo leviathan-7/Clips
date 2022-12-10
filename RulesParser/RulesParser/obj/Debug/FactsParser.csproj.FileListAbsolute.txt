@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\FactsParser\FactsParser\bin\Debug\FactsParser.exe.config
+C:\Users\1\source\repos\FactsParser\FactsParser\bin\Debug\FactsParser.exe
+C:\Users\1\source\repos\FactsParser\FactsParser\bin\Debug\FactsParser.pdb
+C:\Users\1\source\repos\FactsParser\FactsParser\obj\Debug\FactsParser.csprojAssemblyReference.cache
+C:\Users\1\source\repos\FactsParser\FactsParser\obj\Debug\FactsParser.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FactsParser\FactsParser\obj\Debug\FactsParser.exe
+C:\Users\1\source\repos\FactsParser\FactsParser\obj\Debug\FactsParser.pdb

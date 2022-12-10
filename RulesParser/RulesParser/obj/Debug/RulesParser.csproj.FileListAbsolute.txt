@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\RulesParser\RulesParser\bin\Debug\FactsParser.exe.config
+C:\Users\1\Desktop\RulesParser\RulesParser\bin\Debug\FactsParser.exe
+C:\Users\1\Desktop\RulesParser\RulesParser\bin\Debug\FactsParser.pdb
+C:\Users\1\Desktop\RulesParser\RulesParser\obj\Debug\RulesParser.csprojAssemblyReference.cache
+C:\Users\1\Desktop\RulesParser\RulesParser\obj\Debug\RulesParser.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\RulesParser\RulesParser\obj\Debug\FactsParser.exe
+C:\Users\1\Desktop\RulesParser\RulesParser\obj\Debug\FactsParser.pdb
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\bin\Debug\FactsParser.exe.config
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\bin\Debug\FactsParser.exe
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\bin\Debug\FactsParser.pdb
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\obj\Debug\RulesParser.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\obj\Debug\RulesParser.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\obj\Debug\FactsParser.exe
+C:\Users\1\Desktop\ИС\RulesParser\RulesParser\obj\Debug\FactsParser.pdb
